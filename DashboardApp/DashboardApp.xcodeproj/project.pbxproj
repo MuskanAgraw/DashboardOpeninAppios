@@ -14,6 +14,7 @@
 		9E64BEC32BFBF52300F8A68F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E64BEC22BFBF52300F8A68F /* Preview Assets.xcassets */; };
 		9E64BECA2BFBF62600F8A68F /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E64BEC92BFBF62600F8A68F /* Models.swift */; };
 		9E64BECC2BFBF78000F8A68F /* ChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E64BECB2BFBF78000F8A68F /* ChartView.swift */; };
+		9ECA39AA2C03B25400FBA6B8 /* Amazon-logo-meaning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9ECA39A92C03B25400FBA6B8 /* Amazon-logo-meaning.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		9E64BEC22BFBF52300F8A68F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9E64BEC92BFBF62600F8A68F /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		9E64BECB2BFBF78000F8A68F /* ChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartView.swift; sourceTree = "<group>"; };
+		9ECA39A92C03B25400FBA6B8 /* Amazon-logo-meaning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Amazon-logo-meaning.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				9E64BECB2BFBF78000F8A68F /* ChartView.swift */,
 				9E64BEBD2BFBF52000F8A68F /* Item.swift */,
 				9E64BEBF2BFBF52300F8A68F /* Assets.xcassets */,
+				9ECA39A92C03B25400FBA6B8 /* Amazon-logo-meaning.jpg */,
 				9E64BEC12BFBF52300F8A68F /* Preview Content */,
 				9E64BEC92BFBF62600F8A68F /* Models.swift */,
 			);
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E64BEC32BFBF52300F8A68F /* Preview Assets.xcassets in Resources */,
+				9ECA39AA2C03B25400FBA6B8 /* Amazon-logo-meaning.jpg in Resources */,
 				9E64BEC02BFBF52300F8A68F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
